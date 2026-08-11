@@ -1,0 +1,51 @@
+#main{
+    background-color:white;
+    height: 250px;
+    width: 400px;
+    font-family: monospace;
+    font-weight: bold;
+    font-size:15px;
+    margin-top:10%;
+}
+#btn1:hover{
+    background-color:yellow;
+    color: black;
+}
+
+#btn2:hover{
+    background-color: yellow;
+    /* font-size: 100px; */
+    color: black;
+}
+
+#btn3:hover{
+    background-color:yellow;
+    /* font-size: 100px; */
+    color: black;
+}
+
+#btn3{
+    background-color:blue;
+    color:white;
+    border-radius:5px;
+    width:100px;
+    height:50px;
+    border:0px;
+}
+
+#btn2{
+    background-color:red;
+    color:white;
+    border-radius:5px;
+    width:100px;
+    height:50px;
+    border:0px;
+}
+#btn1{
+    background-color:green;
+    color:white;
+    border-radius:5px;
+    width:100px;
+    height:50px;
+    border:0px;
+}
