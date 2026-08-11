@@ -1,0 +1,55 @@
+#card{
+    background-color:rgb(190, 230, 148);
+    box-shadow: 2px 4px rgb(161, 168, 220);
+    height: 100px;
+    width: 300px;
+    margin-top: 50px;
+    border-radius: 10px;
+    border: 1px solid;
+}
+#btn1{
+    margin-bottom: 10px;
+    background-color:rgb(83, 13, 197);
+    padding: 10px;
+    color:white;
+font-weight: bold;
+    border-radius: 4px;
+    border: 0px;
+}
+
+input{
+    margin-top: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 0px;
+    height: 30px;
+    text-align: center;
+}
+
+#card2{
+
+
+    background-color:rgba(143, 203, 222, 0.732);
+    height: 100px;
+
+    width: 300px;
+    margin-top: 50px;
+}
+#seen{
+
+    display: flex;
+flex-wrap:wrap;
+    gap: 20px;
+}
+#para{
+    color: white;
+    font-size: 15px;
+    height: 20px;
+    background-color: green;
+}
+
+#btn2{
+    margin-left: 200px;
+    background-color: rgb(230, 212, 108);
+    border: 0px;
+}
